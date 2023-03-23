@@ -1,6 +1,5 @@
 <h2>¡Soy Jose libardo, desarrollador de software! <img src="https://media.giphy.com/media/SbIJaS4JHONxWH6A8a/giphy.gif" width="50" align='center'></h2>
 
-<h2>¡Soy Jose libardo, desarrollador de software! <img src="https://media.giphy.com/media/QWcz0ilEogsGGeP603/giphy.gif" width="50" align='center'></h2>
 
 
 <h3 align="center">A passionate frontend developer from India</h3>
